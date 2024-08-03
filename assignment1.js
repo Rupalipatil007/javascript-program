@@ -1,0 +1,23 @@
+var myFullName;
+console.log(myFullName); 
+myFullName = "Rupali Patil";
+console.log(myFullName);
+myFullName = "My Full name is: Rupali Eknath Patil";
+console.log(myFullName);
+var mylove;
+console.log("i love only Js");
+
+var firstName;
+console.log("My first name is:Rupali");
+var lastName;
+console.log("my last name is :patil");
+var age;
+console.log("my age is :25");
+var address;
+console.log("My address is:muthangi charch isanapur");
+var pincode;
+console.log("my pincode is :414145");
+var gender;
+console.log("my gender is :female");
+var married;
+console.log("is married :yes");
