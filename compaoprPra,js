@@ -1,0 +1,15 @@
+var n1 = 10;
+var n2 = 5;
+var result = n1==n2;
+console.log("Equal is:",result);
+
+var n1 =20;
+var n2 =20;
+var result= n1===n2;
+console.log(" eual is :",result);
+var result= n1 !==n2;
+console.log("Not is:",result);
+var result= n1 >n2;
+console.log("Not is:",result);
+var result= n1 <=n2;
+console.log("Not is:",result);
